@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monito/static/css/main.241e2518.css",
+    "main.js": "/monito/static/js/main.56c40c4e.js",
+    "static/js/453.9a0f07a2.chunk.js": "/monito/static/js/453.9a0f07a2.chunk.js",
+    "index.html": "/monito/index.html",
+    "main.241e2518.css.map": "/monito/static/css/main.241e2518.css.map",
+    "main.56c40c4e.js.map": "/monito/static/js/main.56c40c4e.js.map",
+    "453.9a0f07a2.chunk.js.map": "/monito/static/js/453.9a0f07a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241e2518.css",
+    "static/js/main.56c40c4e.js"
+  ]
+}
